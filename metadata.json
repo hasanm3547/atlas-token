@@ -1,0 +1,21 @@
+{
+  "name": "tether Token",
+  "symbol": "ustd",
+  "description": "Atlas ekosistemi için oluşturulmuş devnet SPL token.",
+  "image": "https://raw.githubusercontent.com/hasanm3547/atlas-token/main/logo.png",
+  "attributes": [
+    {
+      "trait_type": "Network",
+      "value": "Solana Devnet"
+    }
+  ],
+  "properties": {
+    "category": "token",
+    "creators": [
+      {
+        "address": "GaiGZz65bperbQwi8CpFqukUiZTegJGgTt4UwGf1nDxa",
+        "share": 100
+      }
+    ]
+  }
+}
